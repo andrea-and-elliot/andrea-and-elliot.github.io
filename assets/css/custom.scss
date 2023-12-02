@@ -1,0 +1,27 @@
+--- 
+
+--- 
+// Monochrome Pink Color Variables
+$base-pink: #EECDE5;
+$dark-pink: darken($base-pink, 15%);
+$light-pink: lighten($base-pink, 15%);
+$lighter-pink: lighten($base-pink, 25%);
+$darkest-pink: darken($base-pink, 35%);
+
+body {
+    background-color: $lighter-pink;
+}
+
+blockquote {
+    border-left-color: $light-pink; // Slightly lighter pink for blockquote border
+}
+
+hr {
+    background-color: $light-pink; // Slightly lighter pink for horizontal rules
+}
+
+// Customizations for the site title and menu
+.site-title,
+.site-title a {
+    color: $darkest-pink !important;
+}
