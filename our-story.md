@@ -61,7 +61,7 @@ The next morning, we woke up early to stroll the grounds before it opened to vis
 ![proposal](/assets/img/proposal.jpg)
 _She said yes at Hever Castle_
 
-Readers may be shaking their heads to learn that I actually proposed with a dummy ring. I had ordered the ring ahead of time but hadn't factored in the UK's postal strikes. As soon as I realised the ring would arrive 1 day after we left for the castle, I asked my housemates to find me a stand-in as I would not have been able to sneak away for a quick shop while sightseeing with Andrea. 
+Readers may be shaking their heads to learn that I actually proposed with a dummy ring. I had ordered the ring ahead of time but hadn't factored in the UK's postal strikes. As soon as I realised the ring would arrive 1 day after we left for the castle, I asked my housemates to find me a stand-in as I would not have been able to sneak away for a quick shop while sightseeing with Andrea. (Thank you Ng Wen Xi, Raph, and Ksherah N/A!)
 
 When we left the castle for London, we went straight to the jeweller to pick up the ring. And here she is:
 
