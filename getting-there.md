@@ -7,7 +7,7 @@ permalink: /getting-there/
 ## Overview
 The wedding will be held in Toronto, Ontario, Canada. It will follow in two parts:
 * 2PM: Church ceremony at First Lutheran Evangelical Church
-* 5:30PM: Reception dinner & dance at Rainhard Brewery
+* 5:00PM: Tea ceremony, reception dinner & dance at Rainhard Brewery
 
 The ceremony and reception are located about 30 minutes apart by car or 1 hour by transit. 
 
