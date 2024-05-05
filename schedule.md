@@ -11,9 +11,10 @@ Church ceremony
 * Receiving line & wedding party photos: 3-4pm
 
 Reception
-* Doors open at 5pm
-* Dinner is served at 5:30pm
-* Speeches start at 6:00pm
-* Dance floor opens shortly after
+* Doors open at 4pm
+* Tea ceremony starts at 5pm
+* Speeches start at 5:30pm
+* Dinner is served at 6pm
+* Dance floor opens shortly after 7
 
 
